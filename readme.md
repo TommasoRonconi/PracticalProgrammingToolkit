@@ -2,6 +2,12 @@
 
 Ciao, the course is held in italian but the repo is in english.
 
+- [lectures](lectures) contains the material shown during lectures, both slides and notebooks (numbered). There is more material than what has been actually done, read it at your convenience.
+- [hands_on](hands_on) contains the proposed exercises. What we did is
+  - [The collaborative project](hands_on/H01/exercise2_git)
+  - [Evaluating $\pi$](hands_on/H02/)
+- [examples](examples) is for miscellanea and examples shown at lecture/hands-on which do not fit directly in the other positions
+
 ## Useful links:
 
 - WSL installation on Windows: [instructions at this link](https://learn.microsoft.com/it-it/windows/wsl/install).
